@@ -10,7 +10,8 @@ This project is a demonstration of the use of python requests, APIs, and JSON tr
  - Identifying duplicate mice found through Mouse ID and Timepoint data
  - Cleaned DataFrame excluding duplicate mice
  - Number of mice in cleaned merged data
-   # Linear Regression Plots
+
+  # Linear Regression Plots
  - Merging of two csv files (Mouse_metadata.csv, Study_results.csv) into one single DataFrame
  - Number of mice within merged data
  - Identifying duplicate mice found through Mouse ID and Timepoint data
